@@ -35,7 +35,7 @@ const projects = [
     demoLink: "#",
     githubLink: "#",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-jpaeqleFukSLEmuMU0LWhq7afQNbXe.png",
-    videoId: "392SqStBwQ8", // YouTube video ID for Wisp
+    videoId: "1uQ967Tqbbg", // YouTube video ID for Wisp
   },
   {
     title: "AI Bookmark Manager",
